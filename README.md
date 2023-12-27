@@ -1,4 +1,4 @@
-# LandYourJob
+# Find YourJob
 
 LandYourJob is a job website built using React JS, Tailwind CSS, NodeJS, ExpressJS, MongoDB, and deployed on Netlify. The website allows users to post and view job openings from various industries and locations.
 
@@ -22,7 +22,7 @@ LandYourJob is a job website built using React JS, Tailwind CSS, NodeJS, Express
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/pankajktech/FindYourJob.git`
+1. Clone the repository
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
